@@ -16,7 +16,7 @@ npm run start:ts
 
 Pour démarrer le serveur en en utilisant Typescript avec source map: 
 ```sh  
-npm run start:ts 
+npm run ts 
 ```
 
 # Description
