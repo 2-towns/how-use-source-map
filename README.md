@@ -1,6 +1,6 @@
 # Introduction 
 
-Ce repository contient les fichiers pour l'article sur [codons.blog](https://codons.blog/creer-une-api-avec-node-js.html).
+Ce repository contient les fichiers pour l'article sur [codons.blog](https://codons.blog/qu-est-ce-qu-un-source-map.html).
 
 # Commandes 
 
